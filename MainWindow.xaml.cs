@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.IO;
 
 namespace NovelIDE
 {
@@ -33,6 +34,7 @@ namespace NovelIDE
         private void btnsave_Click(object sender, RoutedEventArgs e)
         {
             btnsave.Content = "test";
+            txbMainWriter.Text = "test";
         }
     }
 }
