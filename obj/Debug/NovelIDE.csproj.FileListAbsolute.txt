@@ -1,0 +1,13 @@
+c:\users\貴昭\documents\visual studio 2013\Projects\NovelIDE\NovelIDE\bin\Debug\NovelIDE.exe.config
+c:\users\貴昭\documents\visual studio 2013\Projects\NovelIDE\NovelIDE\bin\Debug\NovelIDE.exe
+c:\users\貴昭\documents\visual studio 2013\Projects\NovelIDE\NovelIDE\bin\Debug\NovelIDE.pdb
+c:\users\貴昭\documents\visual studio 2013\Projects\NovelIDE\NovelIDE\obj\Debug\NovelIDE.csprojResolveAssemblyReference.cache
+c:\users\貴昭\documents\visual studio 2013\Projects\NovelIDE\NovelIDE\obj\Debug\MainWindow.baml
+c:\users\貴昭\documents\visual studio 2013\Projects\NovelIDE\NovelIDE\obj\Debug\MainWindow.g.cs
+c:\users\貴昭\documents\visual studio 2013\Projects\NovelIDE\NovelIDE\obj\Debug\App.g.cs
+c:\users\貴昭\documents\visual studio 2013\Projects\NovelIDE\NovelIDE\obj\Debug\NovelIDE_MarkupCompile.cache
+c:\users\貴昭\documents\visual studio 2013\Projects\NovelIDE\NovelIDE\obj\Debug\NovelIDE.g.resources
+c:\users\貴昭\documents\visual studio 2013\Projects\NovelIDE\NovelIDE\obj\Debug\NovelIDE.Properties.Resources.resources
+c:\users\貴昭\documents\visual studio 2013\Projects\NovelIDE\NovelIDE\obj\Debug\NovelIDE.csproj.GenerateResource.Cache
+c:\users\貴昭\documents\visual studio 2013\Projects\NovelIDE\NovelIDE\obj\Debug\NovelIDE.exe
+c:\users\貴昭\documents\visual studio 2013\Projects\NovelIDE\NovelIDE\obj\Debug\NovelIDE.pdb
